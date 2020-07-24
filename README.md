@@ -1,6 +1,6 @@
 #Giftastic 2.0
 
-# Take a Trip through the Underwater World!
+# Take a Trip to the Movie Theaters!
 
 * Click diffrent awesome movies on the bar for gif results.
 
